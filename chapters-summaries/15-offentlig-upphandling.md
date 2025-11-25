@@ -1,0 +1,4 @@
+# Podcast Episode Intro: Offentlig upphandling
+
+Över 900 miljarder kronor - så mycket genomför offentlig sektor i upphandlingspliktiga inköp årligen. Att organisera dessa effektivt är avgörande för produktiviteten. Men systemet har brister. Upphandlande organisationer får inte använda tidigare erfarenheter av leverantörer vid utvärdering av anbud - vilket tvingar fram samma misstag om och om igen. Inköpsprocessen är alltför litet digitaliserad, vilket försvårar analys och statistikuppgifter. Överprövningar är för lätta att få igenom, vilket fördröjer viktiga investeringar. Vad händer när vi inför ett system där erfarenheter kan registreras och användas, digitaliserar hela inköpsprocessen, och höjer tröskeln för överprövningar? Kategoristyrning och bättre inköpsanalyser kan effektivisera verksamheten markant. Upptäck hur smartare upphandling kan frigöra miljarder till bättre välfärd.
+

@@ -1,0 +1,4 @@
+# Podcast Episode Intro: Energiförsörjning
+
+El är den nya olja Tillgången till fossilfri energi till låg kostnad har varit nyckeln till Sveriges konkurrenskraft i över ett sekel. Nu står vi vid ett nytt vägskäl. Energimyndigheten spår att Sveriges elbehov kan öka från 150 TWh till mellan 200 och 340 TWh år 2045 - beroende på om industrin verkligen genomför sin gröna omställning. Men svensk energipolitik har präglats av politisering, tvära kast och dåligt underbyggda beslut. Väderberoende vindkraft har byggts ut i norr samtidigt som planerbar kärnkraft lagts ned i söder, vilket skapar flaskhalsar i elnätet. Vad krävs för att säkra framtidens energiförsörjning? En långsiktig blocköverskridande överenskommelse, en trestegsprincip för elsystemet, och statliga stöd för att få till stånd nödvändiga investeringar. Upptäck varför energifrågan avgör om Sveriges industri har en framtid.
+

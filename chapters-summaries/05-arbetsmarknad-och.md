@@ -1,0 +1,4 @@
+# Podcast Episode Intro: Arbetsmarknad och kompetensförsörjning
+
+Sveriges arbetsmarknad präglas av en paradox: samtidig brist på kompetens och arbetslöshet. Hälften av företagen har svårt att rekrytera, medan hundratusentals står utanför arbetsmarknaden. Strukturomvandlingen accelererar - efterfrågan på högutbildad arbetskraft ökar, AI förändrar arbetsuppgifter, och en åldrande befolkning minskar arbetsutbudet. Samtidigt är Sveriges lönestruktur anmärkningsvärt stabil över tid - relativlönerna förändras knappt trots enorma förändringar i efterfrågan. Vad händer när vi sänker den statliga inkomstskatten, reformerar omställningsstudiestödet och gör lönebildningen mer flexibel? Utforska hur matchningen mellan arbetskraft och jobb kan förbättras, och varför humankapitalets kvalitet är avgörande för framtidens produktivitet.
+

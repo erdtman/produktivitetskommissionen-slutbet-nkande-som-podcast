@@ -1,0 +1,4 @@
+# Podcast Episode Intro: Produktivitet i offentlig sektor
+
+Offentlig sektor utgör grunden för en fungerande marknadsekonomi - men dess produktivitetsutveckling är svår att mäta och ännu svårare att förbättra. Välfungerande utbildningssystem, infrastruktur, forskning och lag och ordning är centrala för näringslivets produktivitet. Men offentlig sektor har underskattat riskerna med konkurrensutsättning av välfärdstjänster - systemet saknar tillräckliga kontroller för att utestänga kriminella aktörer. Samtidigt hotar perspektivträngsel kärnverksamheten när organisationer förväntas lösa alltför många olika utmaningar parallellt. Ökande administration äter upp resurser som skulle kunna gå till kärnuppgifterna. Vad krävs för att återfokusera på det viktiga? Tydligare målsättningar, färre externa krav, och bättre balans mellan olika samhällsmål. Upptäck varför offentlig sektors viktigaste uppgift är att garantera institutionerna som gör marknadsekonomin effektiv.
+

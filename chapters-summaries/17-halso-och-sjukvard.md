@@ -1,0 +1,4 @@
+# Podcast Episode Intro: Hälso- och sjukvård
+
+Sveriges hälso- och sjukvård är välfungerande med hög medicinsk kvalitet - men står inför utmaningar med tillgänglighet och kompetensförsörjning. Systemet behöver inte en genomgripande reformering, men vissa delar måste förändras. Primärvårdens andel av resurser är för låg och måste öka genom omfördelning. Konkurrensutsättningen av vårdverksamhet riskerar i vissa fall att leda till marknads- och regleringsmisslyckanden som försämrar förutsättningarna för kostnadseffektiv och behovsstyrd vård. Kravet på att regioner ska tillämpa lagen om valfrihetssystem för primärvård bör tas bort. Staten måste ta tydligare strategiskt ansvar för kompetensförsörjning och digitalisering. Ersättningssystemen behöver reformeras för att motverka oönskade incitament och fasa ut lågvärdevård. Upptäck hur en stärkt primärvård och smartare styrning kan säkra högkvalitativ vård även i framtiden.
+

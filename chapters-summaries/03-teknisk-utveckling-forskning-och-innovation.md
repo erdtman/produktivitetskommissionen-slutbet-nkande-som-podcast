@@ -1,0 +1,4 @@
+# Podcast Episode Intro: Teknisk utveckling, forskning och innovation
+
+Innovation är motorn i Sveriges ekonomi. Men fungerar systemet så bra som det skulle kunna? Sverige rankas högt internationellt när det gäller forskningsinvesteringar och innovation - men det finns sprickor i fasaden. Lärosäten saknar tydliga roller, kopplingen mellan akademi och näringsliv kunde vara starkare, och systemet för företagsfrämjande stöd är fragmenterat och svårutvärderbart. Samtidigt hindrar föråldrade regler entreprenörer från att växa. Vad händer när vi inrättar nya forskningsinstitut, reformerar FoU-avdraget och ger forskare bättre möjligheter att kommersialisera sina upptäckter? Upptäck hur Sverige kan bli ännu bättre på det vi redan är bra på - och varför selektiva stöd oftast gör mer skada än nytta.
+

@@ -1,0 +1,4 @@
+# Podcast Episode Intro: Klimat- och industripolitik
+
+Klimatomställningen är vår tids största utmaning - men också en enorm möjlighet för Sverige. Med fossilfri energi och grön teknik kan svenska företag ta marknadsandelar globalt. Men hur når vi dit utan att skada produktiviteten? Den nya industripolitiken med selektiva företagsstöd riskerar att snedvrida resursfördelningen och göra mer skada än nytta. Sveriges utsläpp utgör bara 0,1 procent av världens totala - vår verkliga påverkan ligger i att vara en kostnadseffektiv förebild och exportera grön teknik. Kostnadseffektivitet måste vara ledstjärnan: höj bensin- och dieselskatten, prissätt utsläpp rätt, och harmonisera svenska mål med EU:s. När industristöd ändå ges krävs gedigen analys, transparens och kontinuerlig uppföljning. Upptäck varför rätt typ av klimatpolitik kan stärka - inte försvaga - svensk konkurrenskraft.
+

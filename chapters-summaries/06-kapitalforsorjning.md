@@ -1,0 +1,4 @@
+# Podcast Episode Intro: Kapitalförsörjning
+
+Pengar är ekonomins blodomlop. Välfungerande finansiella marknader kanaliserar kapital till de mest produktiva investeringarna och gör det möjligt för företag att starta, växa och förnya sig. Sveriges kapitalmarknad är i grunden stark - riskkapitalmarknaden är livskraftig, aktiemarknaden attraktiv och banksektorn stabil. Men det finns sprickor: delar av obligationsmarknaden lider av låg likviditet, konkurrensen mellan banker kunde vara bättre, och nedstängningen av fysiska bankkontor försvårar för små företag. Samtidigt står finanssektorn inför en ständig balansgång mellan innovation och stabilitet, mellan reglering och frihet. Hur kan Sverige vårda sina välfungerande marknader samtidigt som vi åtgärdar problemen? Upptäck varför fördjupad europeisk integration är viktig - men inte till varje pris.
+

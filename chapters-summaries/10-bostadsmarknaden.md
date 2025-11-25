@@ -1,0 +1,4 @@
+# Podcast Episode Intro: Bostadsmarknaden
+
+En välfungerande bostadsmarknad är avgörande för arbetskraftens rörlighet och företags möjlighet att rekrytera. Men hyressättningssystemet i Sverige skapar ett ineffektivt utnyttjande av befintligt bestånd. I Stockholm är genomsnittlig kötid för lägenhet över 10 år, förstahandskontrakt har ett marknadsvärde, och andrahandshyror är högre än förstahandshyror - klassiska tecken på en marknad i obalans. Samtidigt missgynnar skattesystemet hyresrätten i förhållande till äganderätt. Vad händer när vi reformerar hyressättningen mot mer efterfrågebaserade hyror, avskaffar ROT-avdraget, och stärker neutraliteten mellan boendeformer? Omregleringen måste ske gradvis med bibehållet besittningsskydd, och vinster för fastighetsägare bör beskattas. Upptäck hur en fungerande bostadsmarknad kan öka både produktiviteten och människors valmöjligheter.
+

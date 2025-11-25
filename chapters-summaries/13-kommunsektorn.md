@@ -1,0 +1,4 @@
+# Podcast Episode Intro: Kommunsektorn
+
+Kommunsektorn är Sveriges största arbetsgivare och ansvarar för merparten av välfärden. Men styrningen är otydlig och oförutsägbar. Riktade statsbidrag skapar byråkrati, ekonomistyrningen är fragmenterad, och det saknas adekvata produktivitetsmått. Olika verksamheter har olika potential för produktivitetstillväxt - teknik- och kunskapsintensiva delar har större möjligheter än tjänster präglade av direktkontakt. Vad händer när vi inför en statlig garantimodell för kommunsektorns finansiering, minskar antalet riktade statsbidrag, och skapar bättre planeringsförutsättningar? Kommunala bolag behöver bättre insyn för att motverka korruptionsrisker, och schablonersättningarna för dold mervärdesskatt bör sänkas. SCB bör utveckla metoder för kvalitetsjusterade produktivitetsmått. Upptäck hur tydligare ekonomistyrning och färre fragmenterade bidrag kan frigöra resurser till kärnverksamheten.
+

@@ -1,0 +1,4 @@
+# Podcast Episode Intro: Konkurrens och handel
+
+Konkurrens är den kreativa förstörelsens motor. Genom att erbjuda bättre produkter kan produktiva företag växa medan mindre effektiva måste utvecklas eller vika. Sveriges konkurrens är relativt god - en enorm förbättring sedan krisen på 1990-talet när oligopol och samarbeten dominerade. Men globalisering och frihandel stöter nu på motstånd världen över. Protektionism och industripolitik växer sig starkare, EU:s inre marknad fungerar inte lika bra för tjänster som för varor, och digitala regleringar skapar nya hinder. Samtidigt visar forskningen tydligt: internationell handel främjar produktivitet genom specialisering, teknikspridning och tillgång till bättre insatsvaror. Hur kan Sverige fortsätta vara en förespråkare för öppenhet när omvärlden rör sig i motsatt riktning? Upptäck varför handelns betydelse aldrig varit viktigare att försvara.
+

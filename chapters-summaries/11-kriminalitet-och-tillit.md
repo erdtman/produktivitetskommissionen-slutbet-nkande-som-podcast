@@ -1,0 +1,4 @@
+# Podcast Episode Intro: Kriminalitet och tillit
+
+Sveriges höga tillitsnivåer är en konkurrensfördel som minskar transaktionskostnader och ökar samarbete. Men denna tillgång är under attack. Den kriminella ekonomin omsätter 100-150 miljarder kronor årligen. Välfärdskriminalitet har blivit ett systemhot där oseriösa aktörer exploaterar offentligt finansierade marknader. Bolag används som brottsverktyg av organiserad brottslighet, förmedlade av bolagsmäklare utan reglering. Miljöbrottslighet, bedrägerier och svartarbete snedvrider konkurrensen och skadar seriösa företag. Lösningen? Skärpta krav på privata utförare, ett utförarregister, tillståndsplikt för fler verksamheter, och reglering av bolagsförmedling. Lagen om valfrihetssystem måste revideras eller upphävas. Offentlighetsprincipen ska gälla all offentligt finansierad verksamhet. Upptäck hur vi kan skydda Sveriges tillit innan det är för sent.
+

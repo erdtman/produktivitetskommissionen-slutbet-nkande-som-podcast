@@ -1,0 +1,4 @@
+# Podcast Episode Intro: Konkurrens inom välfärdssektorn
+
+Under de senaste decennierna har Sverige konkurrensutsatt stora delar av välfärdstjänsterna för att öka produktiviteten. Privata aktörer utför nu betydande delar av vård, skola, omsorg och arbetsmarknadsinsatser. Men resultatet är blandat. De positiva effekterna som identifierats är små, och det finns tydliga brister i utformningen. Assistansersättning, HVB-hem och primärvård visar allvarliga problem. I vissa fall har kriminella och oseriösa aktörer skapat oförutsedda utmaningar som riskerar göra systemen ohållbara. Sverige saknar tillräcklig kunskap för att definitivt uttala sig om konkurrensutsättningens totala effekter. Vad krävs? Regelbunden utvärdering och justering, vid behov omprövning av verksamhetens konkurrensutsättning, höga krav för att delta på kvasimarknader, och fler konkurrensfrämjande mekanismer som standardval. Upptäck varför välfärdssystemens långsiktiga hållbarhet kräver modiga reformer.
+

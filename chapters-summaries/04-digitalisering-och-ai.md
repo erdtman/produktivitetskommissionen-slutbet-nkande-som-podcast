@@ -1,0 +1,4 @@
+# Podcast Episode Intro: Digitalisering och AI
+
+Artificiell intelligens står vid dörren och kan transformera hela ekonomin. Men Sveriges digitalisering av offentlig sektor halkar efter - från 4:e plats till 26:e plats bland OECD-länder på bara några år. Samtidigt brottas företag med osäkerhet kring GDPR, upphovsrätt och datadelning. Potentialen är enorm: ett fullständigt införande av AI i svensk offentlig förvaltning kunde vara värt 140 miljarder kronor. Men det krävs handling - bättre digital infrastruktur, tydligare regler och ett AI-kompetenscentrum som hjälper offentlig sektor att automatisera och effektivisera. Hur kan Sverige vända utvecklingen och ta tillvara på den digitala revolutionens möjligheter? Upptäck varför komplementära investeringar i kompetens och organisation är viktigare än tekniken i sig.
+
