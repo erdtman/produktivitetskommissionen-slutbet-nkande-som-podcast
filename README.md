@@ -42,7 +42,9 @@ Episod och podcast bilderna genererade jag med ChatGPT, använde en grundprompt 
 Create a retro 1950s cartoon style image, minimal vector art, Art Deco inspired, clean flat colors, geometric shapes, mid-century modern design, elegant silhouettes, UPA style animation, smooth lines, limited color palette (black, red, beige, brown, white), grainy paper texture background, vintage jazz club atmosphere, subtle lighting, slightly exaggerated character proportions, classy and stylish mood.
 ```
 De flesta bilderna blev ganska generiska. Blev dock nöjd när ChatGPT till sista episoden om hälso- och sjukvård plockade upp temat och gav sångerskan sjuksköterskekläder.  
+
 <img src="chapter-images/17-halso-och-sjukvard.png" alt="Episodbild för hälso- och sjukvård" width="250"/>
+
 För att beskriva episoderna så bad jag Cursor att gå igenom alla kapitlen och generera episodbeskrivningar för alla kapitlen på ~100 ord vardera.
 
 ## Slutsats
